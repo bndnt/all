@@ -1,0 +1,13 @@
+h5, div, p, span{
+    background: #717BC3;
+    width: 190px;
+    height: 40px;
+    display:inline-block;
+    /*display:block ;*/
+    /*display: inline;*/
+    /*display: none;nothing*/
+    /*display: list-item ;*/
+}
+span{
+
+}
