@@ -1,0 +1,27 @@
+.block{
+  margin:30px;
+  padding: 20px;
+  >p{
+  font-weight: bolder;
+}
+
+
+    .block__text{
+      font-weight: 100;
+      span{
+        color:darkred;
+        font-weight: bold;
+      }
+    }
+  &.block--big{
+    font-family: "American Typewriter";
+  }
+  }
+.link{
+  color:hotpink;
+  .block &{
+    font-size: 50px;
+  }
+  &:hover{
+    color: lightseagreen;
+  }}

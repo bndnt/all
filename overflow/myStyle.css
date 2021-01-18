@@ -1,0 +1,7 @@
+.nam{
+overflow: visible;/*по умолчанию, вылезает за блок*/
+    overflow: scroll;
+    overflow:hidden ;/*только область элемента, страница проглотила текст*/
+    overflow:auto;/*удобнее*/
+    overflow:inherit ;
+}
